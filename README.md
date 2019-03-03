@@ -4,9 +4,9 @@ Mūsu komandas nosaukums - "Swiborg's sphere"
 
 Oskars Borskis - prezentētajs
 
-Elvīra Giļazutdinova - programmatūras izstrādātājs, testētājs
+Elvīra Giļazutdinova - programmatūras izstrādātāja, testētāja
 
-Vera Kuzmina - testētājs, dizaina izstrādātājs
+Vera Kuzmina - testētāja, dizaina izstrādātāja
 
 Artjoms Krasovs - komandas iedvesmotājs
 
