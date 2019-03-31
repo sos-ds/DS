@@ -8,7 +8,6 @@ Elvīra Giļazutdinova - programmatūras izstrādātāja, testētāja
 
 Vera Kuzmina - testētāja, dizaina izstrādātāja
 
-Artjoms Krasovs - komandas iedvesmotājs
 
 Mūsu SOS lietotne ir domāta ātrai un ērtai palīdzības dieniestas izsaukšanai.
 
