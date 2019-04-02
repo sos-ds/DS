@@ -13,7 +13,7 @@ _Vera Kuzmina_ - testētāja, dizaina izstrādātāja
 
 _Vairāk informācijas sk. mūsu wiki: https://github.com/sos-ds/DS/wiki_
 
-_____________________________________________________________________
+....................................................................................................................
 
 ## Prasības
 *	Python3, jāizmanto IDLE vai cits teksta redaktors (var lejupielādēt [šeit](https://www.python.org/downloads/))
