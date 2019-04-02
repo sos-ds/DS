@@ -23,3 +23,7 @@ _Vairāk informācijas sk. mūsu wiki: https://github.com/sos-ds/DS/wiki_
 * **Sākumā palaist Server_SOS_.py**
 
 * **Pēc tam - Client_SOS_.py**
+
+
+
+[![SOS lietotne](https://github.com/sos-ds/DS/blob/master/Presentations/SOS%20lietotne%20Final%20.png)](https://www.youtube.com/watch?v=boFo4KuvXF8)
