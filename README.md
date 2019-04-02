@@ -18,7 +18,7 @@ _Vairāk informācijas sk. mūsu wiki: https://github.com/sos-ds/DS/wiki_
 *	Lai pārbaudītu datu ievāde datubāzē, var lejupielādēt DB Browser for SQLite ([šeit](https://sqlitebrowser.org/))
 
 ## Kā iestartēt?
-* **Lejupielādēt mapi SOS_base_alpha_final_testing**
+* **Lejupielādēt mapi SOS_base_alpha_FINAL_testing**
 
 * **Sākumā palaist Server_SOS_.py**
 
