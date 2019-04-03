@@ -13,7 +13,7 @@ _Artjoms Krasovs_ - prezentētājs
 
 ### Mūsu SOS lietotne ir domāta ātrai un ērtai palīdzības dieniestas izsaukšanai.
 
-_Vairāk informācijas sk. mūsu [wiki](https://github.com/sos-ds/DS/wiki)
+Vairāk informācijas sk. mūsu [wiki](https://github.com/sos-ds/DS/wiki)
 
 ....................................................................................................................
 
