@@ -28,6 +28,6 @@ Vairāk informācijas sk. mūsu [wiki](https://github.com/sos-ds/DS/wiki)
 
 * **Pēc tam - Client_SOS_.py**
 
-## Video Tutorial kā strādā SOS aplikācija (spiež uz bildi! ↓)
+## Kā strādā SOS aplikācija (spiež uz bildi! ↓)
 
 [![SOS lietotne](https://github.com/sos-ds/DS/blob/master/Presentations/SOS%20lietotne%20Final%20.png)](https://www.youtube.com/watch?v=boFo4KuvXF8)
